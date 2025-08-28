@@ -7,5 +7,10 @@ Frase = "Olá, mundo!"
 Frase.show
 End sub
 ```
+- [X] Tarefa 4
+- [ ] Tarefa 5
+- [x] Para a task link funcionar deve haver um espaço após os colchetes
+
+
 
 
